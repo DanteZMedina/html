@@ -1,0 +1,8 @@
+body {
+    background-color: #eee;
+}
+/*Display sirve para mover los efecto por defecto
+por ejemplo inline se pueden cambiar a bloque y viceversa */
+#invisible { 
+    display: none;
+}

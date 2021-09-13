@@ -1,0 +1,17 @@
+body {
+    background-color: #eee;
+}
+img {
+    float: right;
+}
+img:hover {
+    opacity: 0.90;
+    
+}
+/*combinacion de selectores*/
+/*Primero ponemos la etiqueta padre y despues el hijo
+en este caso DIV es padre y P es hijo. 
+de esta forma no afectamos el primer P */
+div p {
+    color: #f00;
+}
